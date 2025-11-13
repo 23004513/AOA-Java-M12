@@ -8,7 +8,7 @@ Given a string s, return the longest palindromic substring in s.
 using Manacher's Algorithm
 
 ## Algorithm
-1. Start the program.
+1.Start the program.
 Read the input string s from the user and preprocess it by inserting special characters (#) between each letter and at both ends (^ at start and $ at end) to handle even-length palindromes uniformly.
 
 2.Initialize variables:
